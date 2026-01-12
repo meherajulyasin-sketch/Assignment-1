@@ -1,4 +1,16 @@
-body{
-    background-color: ;
-    
+.div.logo {
+    width: 1625px;
+    height: 105px;
+    background-color: aliceblue;
 }
+p{
+    text-align: center;
+}
+.btn{
+    display: flex;
+    text-align: right;
+}
+    
+    
+
+
